@@ -33,7 +33,7 @@ function Broadcast(type)
 function BroadcastDownloadingUpdate(version)
 {
 	PostBroadcastMessage({
-		"type": "downloading-update",
+		"type": "downloading-update",		// downloads update
 		"version": version
 	});
 }
