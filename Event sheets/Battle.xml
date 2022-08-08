@@ -2212,7 +2212,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="8302002307835332" type="DefaultFont">
                             <param id="0" name="Instance variable">FullText</param>
-                            <param id="1" name="Value">&quot;* SANS 1 ATK 1 DEF&quot; &amp; newline &amp; &quot;* The easiest enemy.&quot; &amp; newline &amp; &quot;* Can only deal 1 damage.&quot;</param>
+                            <param id="1" name="Value">&quot;* MULTITHING 1 ATK 1 DEF&quot; &amp; newline &amp; &quot;* The easiest enemy.&quot; &amp; newline &amp; &quot;* It seems to be an amalgamate of some kind.&quot;</param>
                         </action>
                         <action id="-10" name="Set value" sid="7783602027376122" type="DefaultFont">
                             <param id="0" name="Instance variable">Name</param>
@@ -2273,7 +2273,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="7697488528991464" type="DefaultFont">
                             <param id="0" name="Instance variable">FullText</param>
-                            <param id="1" name="Value">&quot;* Can&apos;t keep dodging forever.&quot; &amp; newline &amp; &quot;* Keep attacking.&quot;</param>
+                            <param id="1" name="Value">&quot;* It can&apos;t dodge your attacks forever.&quot; &amp; newline &amp; &quot;* Keep attacking it.&quot;</param>
                         </action>
                         <action id="-10" name="Set value" sid="1065982881486434" type="DefaultFont">
                             <param id="0" name="Instance variable">Name</param>
